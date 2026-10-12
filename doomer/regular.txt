@@ -1,4 +1,17 @@
 red: #bc1215
 dark red: #7f0e0f
 orange: #d65b19
-dark orange: # 72310e
+dark orange: #72310e
+yellow: #d0e01d
+dark yellow: #6a720e
+green: #8be01d
+dark green: #4b9913
+cyan: #19e8aa
+blue: #117c91
+dark blue: #105360
+violet: #5325d1
+dark violet: #2e1377
+pink: #dd27dd
+dark pink: #771377
+pinker: #dd277c
+dark pinker: #8e154e
