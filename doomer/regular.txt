@@ -1,0 +1,4 @@
+red: #bc1215
+dark red: #7f0e0f
+orange: #d65b19
+dark orange: # 72310e
